@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyVersion>2025.1.29.42</AssemblyVersion>
+    <FileVersion>2025.1.29.42</FileVersion>
+    <ApplicationIcon>Advanced_File_Search_Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Advanced_File_Search_Logo.ico" />
+  </ItemGroup>
+
+</Project>
