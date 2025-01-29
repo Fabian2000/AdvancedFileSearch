@@ -2,7 +2,7 @@
 
 This application provides an efficient way to search through file names and content in a specified folder. It combines regex-based pattern matching with optional content filtering, allowing quick, targeted discovery of relevant files across large directories.
 
-![Screenshot](screenshot.png)
+![Screenshot](advanced_file_search_screenshot.png)
 
 ## Key Features
 - Recursive directory search for matching filenames or text content.
